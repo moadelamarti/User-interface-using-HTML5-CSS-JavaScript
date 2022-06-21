@@ -1,1 +1,1 @@
-# User-interface-using-HTML5-CSS-Javascrip
+# User-interface-using-HTML5-CSS-Javascript
